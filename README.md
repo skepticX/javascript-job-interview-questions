@@ -8,12 +8,12 @@ I am a noob Javascript programmer. I am pretty sure that most of the answers (ea
 GENERAL
 -------
 
-1. Find the most frequent integer in an array
-2. Find pairs in an integer array whose sum is equal to 10 (bonus: do it in linear time)
-3. Given 2 integer arrays, determine of the 2nd array is a rotated version of the 1st array. Ex. Original Array A={1,2,3,5,6,7,8} Rotated Array B={5,6,7,8,1,2,3}
-4. Write fibbonaci iteratively and recursively (bonus: use dynamic programming)
-5. Find the only element in an array that only occurs once
-6. Find the common elements of 2 int arrays
+1. [CS-general_1.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_1.js) - Find the most frequent integer in an array
+2. [CS-general_2.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_2.js) - Find pairs in an integer array whose sum is equal to 10 (bonus: do it in linear time)
+3. [CS-general_3.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_3.js) - Given 2 integer arrays, determine of the 2nd array is a rotated version of the 1st array. Ex. Original Array A={1,2,3,5,6,7,8} Rotated Array B={5,6,7,8,1,2,3}
+4. [CS-general_4.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_4.js) - Write fibbonaci iteratively and recursively (bonus: use dynamic programming)
+5. [CS-general_5.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_5.js) - Find the only element in an array that only occurs once
+6. [CS-general_6.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_6.js) - Find the common elements of 2 int arrays
 7. Implement binary search of a sorted array of integers
 8. Implement binary search in a rotated array (ex. {5,6,7,8,1,2,3})
 9. Use dynamic programming to find the first X prime numbers
