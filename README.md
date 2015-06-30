@@ -14,7 +14,7 @@ GENERAL
 4. [CS-general_4.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_4.js) - Write fibbonaci iteratively and recursively (bonus: use dynamic programming)
 5. [CS-general_5.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_5.js) - Find the only element in an array that only occurs once
 6. [CS-general_6.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_6.js) - Find the common elements of 2 int arrays
-7. Implement binary search of a sorted array of integers
+7. [CS-general_7.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_7.js) - Implement binary search of a sorted array of integers
 8. Implement binary search in a rotated array (ex. {5,6,7,8,1,2,3})
 9. Use dynamic programming to find the first X prime numbers
 10. Write a function that prints out the binary form of an int
