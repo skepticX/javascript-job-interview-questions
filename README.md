@@ -15,13 +15,13 @@ GENERAL
 5. [CS-general_5.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_5.js) - Find the only element in an array that only occurs once
 6. [CS-general_6.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_6.js) - Find the common elements of 2 int arrays
 7. [CS-general_7.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_7.js) - Implement binary search of a sorted array of integers
-8. Implement binary search in a rotated array (ex. {5,6,7,8,1,2,3})
+8. [CS-general_8.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_8.js) - Implement binary search in a rotated array (ex. {5,6,7,8,1,2,3})
 9. Use dynamic programming to find the first X prime numbers
 10. Write a function that prints out the binary form of an int
 11. Implement parseInt
 12. Implement squareroot function
 13. Implement an exponent function (bonus: now try in log(n) time)
-14. Write a multiply function that multiples 2 integers without using *
+14. [CS-general_14.js](https://github.com/skepticX/javascript-job-interview-questions/blob/master/CS-general_14.js) - Write a multiply function that multiples 2 integers without using *
 15. HARD: Given a function rand5() that returns a random int between 0 and 5, implement rand7()
 16. HARD: Given a 2D array of 1s and 0s, count the number of "islands of 1s" (e.g. groups of connecting 1s)
 
